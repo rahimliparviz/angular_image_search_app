@@ -19,7 +19,7 @@ import{MatProgressBarModule,MatToolbarModule,MatRadioModule,MatInputModule,MdInp
     ImageListComponent
   ],
   imports: [
-
+ MatProgressBarModule,
     BrowserModule,
     HttpModule,
     FormsModule,
@@ -29,7 +29,7 @@ import{MatProgressBarModule,MatToolbarModule,MatRadioModule,MatInputModule,MdInp
     MatInputModule,
 
     MatToolbarModule,
-    MatProgressBarModule,
+   
     MatCardModule,
     MdTooltipModule,
     MdIconModule,
